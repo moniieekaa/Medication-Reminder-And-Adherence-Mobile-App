@@ -5,7 +5,7 @@ plugins {
     id("androidx.navigation.safeargs")
     id("org.jetbrains.kotlin.android")
     id("jacoco")
-    id("org.sonarqube") version "5.1.0.4882"
+    id("org.sonarqube") version "6.0.1.5171"
     //noinspection GradleDependency - 0.8.0 does not work, see https://github.com/apter-tech/junit5-robolectric-extension/issues/94
     id("tech.apter.junit5.jupiter.robolectric-extension-gradle-plugin") version "0.7.0"
 }
