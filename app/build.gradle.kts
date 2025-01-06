@@ -93,7 +93,7 @@ dependencies {
     val iconDialogVersion = "3.3.0"
 
     val junitVersion = "5.11.2"
-    val mockitoCoreVersion = "5.14.1"
+    val mockitoCoreVersion = "5.15.2"
     val mockitoInlineVersion = "5.2.0"
     val robolectricVersion = "4.13"
     val jazzerVersion = "0.22.1"
