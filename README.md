@@ -21,9 +21,7 @@ A simple and effective Android application that allows users to schedule their m
 - **UI**: XML layouts or Jetpack Compose (depending on project structure)
 
 ## Project Structure
-
 ```
-
 /MedicationReminderApp
 ├── app/
 │   ├── build.gradle.kts
@@ -37,7 +35,6 @@ A simple and effective Android application that allows users to schedule their m
 └── README.md
 
 ````
-
 ## Getting Started
 
 ### Prerequisites
